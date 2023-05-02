@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Vincent",
+    "umur": 22,
+    "nip": "00000037401",
+    "lulus": false,
+    "hobi": ["malas malasan", "koding", "takut ga sukses"],
+    "pembimbing": {
+      "pembimbing1": "pak wawo",
+      "pembimbing2": "rucci"
+    }
+  },
+  {
+    "nama": "Vincent",
+    "umur": 22,
+    "nip": "00000037401",
+    "lulus": false,
+    "hobi": ["malas malasan", "koding", "takut ga sukses"],
+    "pembimbing": {
+      "pembimbing1": "pak wawo",
+      "pembimbing2": "rucci"
+    }
+  }
+]
